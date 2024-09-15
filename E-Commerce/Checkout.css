@@ -1,0 +1,440 @@
+/* Main CSS */
+
+main{
+    width: 100%;
+    height: fit-content;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(Font/Inter-VariableFont_slnt\,wght.ttf);
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url(Font/Poppins-Medium.ttf);
+}
+
+.roadmap{
+    width: fit-content;
+    height: 21px;
+    margin-top: 80px;
+    margin-left: 185px;
+    gap: 12px;
+    opacity: 0px;
+    display: flex;
+}
+.gohome{
+    width: 82px;
+    height: 21px;
+    gap: 0px;
+    opacity: 50%;
+}
+.breadcrumb-link {
+    text-decoration: none;
+    font-family: 'Poppins';
+    font-size: 13.5px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #000000;
+}
+.breadcrumb-divider {
+    color: #888;
+    margin: 0 5px;
+    margin-left: 12px;
+}
+.curentpage{
+    width: 59px;
+    height: 21px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.breadcrumb-current {
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #000000;    
+}
+.sbar{
+    width: 395px;
+    margin-left: 80px;
+}
+.secon{
+    width: 112px;
+}
+.user{
+    margin-left: 16px;
+    width: 32px;
+    height: 32px;
+}
+.user img{
+    width: 32px;
+    height: 32px;
+}
+
+/* ---------- */
+
+.container{
+    margin-top: 80px;
+    width: fit-content;
+    height: fit-content;
+}
+.frame753{
+    width: 252px;
+    height: 30px;
+    margin-left: 185px;
+    gap: 24px;
+    opacity: 0px;
+}
+.frame753 h1{
+    font-family: 'Inter';
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    color: #000000;
+}
+.secon{
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    margin-top: 48px;
+    margin-left: 185px;
+}
+
+.frame830{
+    width: 470px;
+    height: 814px;
+    gap: 24px;
+    opacity: 0px;
+}
+.frame829{
+    width: 470px;
+    height: 766px;
+    gap: 32px;
+    opacity: 0px; 
+}
+.frame821, .frame822, .frame823,.frame824, .frame825, .frame826, .frame827{
+    width: 470px;
+    height: 82px;
+    gap: 8px;
+    opacity: 0px;
+    margin-top: 32px;
+}
+.styleoflabel{
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+    display: flex;
+}
+.styleoflabel span{
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;    
+    color: red;
+}
+
+.labelfirstname{
+    width: 93px;
+    height: 24px;
+    gap: 0px;
+    opacity: 40%;
+}
+.frame803{
+    width: 470px;
+    height: 50px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: #F5F5F5; 
+    margin-top: 8px;  
+}
+.frame803 input{
+    width: 470px;
+    height: 50px;
+    gap: 0px;
+    border: none;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: #F5F5F5; 
+}
+.labelcomname{
+    width: 133px;
+    height: 24px;
+    gap: 0px;
+    opacity: 40%;    
+}
+.labeladdress{
+    width: 124px;
+    height: 24px;
+    gap: 0px;
+    opacity: 40%;   
+}
+.labelop{
+    width: 251px;
+    height: 24px;
+    gap: 0px;
+    opacity: 40%;    
+}
+.labeltown{
+    width: 89px;
+    height: 24px;
+    gap: 0px;
+    opacity: 40%;    
+}
+.labelnumber{
+    width: 127px;
+    height: 24px;
+    gap: 0px;
+    opacity: 40%;
+}
+.labelemail{
+    width: 121px;
+    height: 24px;
+    gap: 0px;
+    opacity: 40%;
+}
+.frame828{
+    width: 451px;
+    height: 24px;
+    gap: 16px;
+    opacity: 0px;
+    display: flex;
+    margin-top: 24px;
+}
+.iconcheckbox{
+    width: 24px;
+    height: 24px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: #DB4444;
+}
+
+.textcheckbox{
+    width: 411px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.textcheckbox h1{
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+}
+.frame836{
+    width: 527px;
+    height: 600px;
+    gap: 32px;
+    opacity: 0px;
+    margin-top: 80px;
+    margin-left: 173px;
+}
+.frame813{
+    width: 425px;
+    height: 140px;
+    gap: 32px;
+    opacity: 0px; 
+}
+.frame817{
+    width: 422px;
+    height: 136px;
+    gap: 16px;
+    opacity: 0px;
+    margin-top: 32px;
+}
+.frame796, .frame795, .frame794{
+    width: 422px;
+    height: 24px;
+    margin-top: 24px;
+    margin-left: 24px;
+    gap: 307px;
+    opacity: 0px;
+    display: flex;
+}
+.subtotal96{
+    width: 71px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+}
+.subtotal96 h1{
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+}
+.subtotal96curncy{
+    width: 44px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+}
+.subtotal96curncy h1{
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+}
+.underline800{
+    width: 422px;
+    height: 0px;
+    margin-top: 16px;
+    margin-left: 24px;
+    gap: 0px;
+    opacity: 40%;
+    rotate: -0deg;
+    border: 1px solid #000000;
+}
+.frame835{
+    width: 427px;
+    height: 28px;
+    gap: 155px;
+    opacity: 0px;
+    margin-top: 32px;
+    margin-left: 6px;
+}
+.frame819{
+    width: 174px;
+    height: 24px;
+    gap: 16px;
+    opacity: 0px;
+    margin-top: 32px;
+    margin-left: 6px;
+}
+.frame801{
+    width: 527px;
+    height: 56px;
+    gap: 16px;
+    opacity: 0px;
+    display: flex;
+    margin-top: 32px;
+}
+.frame798{
+    width: 300px;
+    height: 56px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #000000;    
+}
+#coppnbox{
+    width: 276px;
+    height: 56px;
+    top: 16px;
+    left: 24px;
+    gap: 0px;
+    opacity: 50%;
+    border: none;
+}
+.coopncodeinput{
+    margin-left: 24px;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+}
+.button98{
+    width: 211px;
+    height: 56px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: #DB4444;
+    border: none;
+}
+.button98 h1{
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #FAFAFA;
+    margin-left: 48px;
+}
+.buttonofsecon{
+    width: 190px;
+    height: 56px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    margin-top: 32px;
+    background: #DB4444;
+    border: none;
+}
+.buttonofsecon h1{
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #FAFAFA;
+    margin-left: 48px;
+}
+
+
+
+
+
+
+
+
+/*Media Query for low resolution  Tablets, Ipads */
+@media (max-width: 480px) {
+    main{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 481px) and (max-width: 767px) {
+    main{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Laptops and Desktops */
+@media (min-width: 768px) and (max-width: 1024px){
+    main{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Large screens */
+@media (min-width: 1025px) and (max-width: 1280px){
+    main{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Large screens */
+@media (min-width: 1281px) and (max-width: 1300px){
+    main{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Large screens */
+@media (min-width: 1301px) and (max-width: 1496px){
+    main{
+        width: 1500px;
+    }
+}

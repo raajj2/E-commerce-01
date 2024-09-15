@@ -1,0 +1,83 @@
+/*Media Query for low resolution  Tablets, Ipads */
+@media (max-width: 480px) {
+    .Topheader{
+        width: 1500px;
+    }
+    .line{
+        width: 1470px;
+        margin-left: 30px;
+    }
+    footer{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 481px) and (max-width: 767px) {
+    .Topheader{
+        width: 1500px;
+    }
+    .line{
+        width: 1470px;
+        margin-left: 30px;
+    }
+    footer{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Laptops and Desktops */
+@media (min-width: 768px) and (max-width: 1024px){
+    .Topheader{
+        width: 1500px;
+    }
+    .line{
+        width: 1470px;
+        margin-left: 30px;
+    }
+    footer{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Large screens */
+@media (min-width: 1025px) and (max-width: 1280px){
+    .Topheader{
+        width: 1500px;
+    }
+    .line{
+        width: 1470px;
+        margin-left: 30px;
+    }
+    footer{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Large screens */
+@media (min-width: 1281px) and (max-width: 1300px){
+    .Topheader{
+        width: 1500px;
+    }
+    .line{
+        width: 1470px;
+        margin-left: 30px;
+    }
+    footer{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Large screens */
+@media (min-width: 1301px) and (max-width: 1496px){
+    .Topheader{
+        width: 1500px;
+    }
+    .line{
+        width: 1470px;
+        margin-left: 30px;
+    }
+    footer{
+        width: 1500px;
+    }
+}

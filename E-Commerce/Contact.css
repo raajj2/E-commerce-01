@@ -1,0 +1,463 @@
+/* Main CSS */
+
+main{
+    width: 100%;
+    height: fit-content;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(Font/Inter-VariableFont_slnt\,wght.ttf);
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url(Font/Poppins-Medium.ttf);
+}
+
+.roadmap{
+    width: 114px;
+    height: 21px;
+    margin-top: 80px;
+    margin-left: 185px;
+    gap: 12px;
+    opacity: 0px;
+    display: flex;
+}
+.gohome{
+    width: 42px;
+    height: 21px;
+    gap: 0px;
+    opacity: 50%;
+}
+.breadcrumb-link {
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #000000;
+}
+.breadcrumb-divider {
+    color: #888;
+    margin: 0 5px;
+}
+.curentpage{
+    width: 42px;
+    height: 21px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.breadcrumb-current {
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #000000;    
+}
+.sbar{
+    width: 395px;
+    margin-left: 80px;
+}
+.secon{
+    width: 112px;
+}
+.user{
+    margin-left: 16px;
+    width: 32px;
+    height: 32px;
+}
+.user img{
+    width: 32px;
+    height: 32px;
+}
+
+/* ---------- */
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.frame858{
+    width: 340px;
+    height: 457px;
+    margin-top: 80px;
+    margin-left: 185px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 13px 0px #0000000D;
+}
+.frame863{
+    width: 270px;
+    height: 366px;
+    margin-top: 40px;
+    margin-left: 35px;
+    gap: 32px;
+    opacity: 0px;
+}
+.frame861{
+    width: 266px;
+    height: 122px;
+    gap: 24px;
+    opacity: 0px;
+}
+.frame853{
+    width: 146px;
+    height: 40px;
+    gap: 16px;
+    opacity: 0px;
+    display: flex;
+}
+.iconphone{
+    width: 40px;
+    height: 40px;
+    gap: 0px;
+    border-radius: 50%;
+    opacity: 0px;
+    background: #DB4444;    
+}
+.iconphoneun{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 15px;
+}
+.callus{
+    width: 90px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 8px;
+    margin-left: 16px;    
+}
+.callus h1{
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+}
+.frame859{
+    width: 262px;
+    height: 58px;
+    gap: 16px;
+    opacity: 0px; 
+    margin-top: 24px;   
+}
+.avi24{
+    width: 262px;
+    height: 21px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.avi24 p{
+    font-family: 'Poppins';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #000000;
+}
+.phonum{
+    width: 150px;
+    height: 21px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 16px;    
+}
+.phonum p{
+    font-family: 'Poppins';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #000000; 
+}
+.underline{
+    width: 270px;
+    opacity: 50%;
+    margin-top: 32px;
+}
+.line1un{
+    width: 270px;
+    height: 0px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #000000    
+}
+.frame862{
+    width: 250px;
+    height: 180px;
+    gap: 24px;
+    opacity: 0px;
+    margin-top: 32px;
+}
+.frame860{
+    width: 250px;
+    height: 116px;
+    gap: 16px;
+    opacity: 0px;
+    margin-top: 24px;
+}
+.with24h{
+    width: 250px;
+    height: 42px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.with24h p{
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #000000;
+}
+.em1{
+    width: 232px;
+    height: 21px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 16px;    
+}
+.em1 p{
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #000000;
+}
+.em2{
+    width: 220px;
+    height: 21px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 16px;    
+}
+.em2 p{
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    color: #000000;
+}
+
+.frame855{
+    width: 800px;
+    height: 457px;
+    margin-top: 80px;
+    margin-left: 30px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 13px 0px #0000000D;
+}
+.frame856{
+    width: 737px;
+    height: 377px;
+    margin-top: 40px;
+    margin-left: 31px;
+    gap: 32px;
+    opacity: 0px;
+    /* border: 2px solid black; */
+}
+.frame852{
+    width: 737px;
+    height: 50px;
+    gap: 16px;
+    opacity: 0px;
+    display: flex; 
+}
+.entername{
+    width: 235px;
+    height: 50px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 4px 0px 0px 0px;
+    background: #F5F5F5;
+    border: none;
+}
+.enternameinput{
+    width: 219px;
+    height: 50px;
+    background: #F5F5F5;
+    border: none;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+    padding-left: 16px;
+    opacity: 50%;
+}
+.enteremail852{
+    width: 235px;
+    height: 50px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 4px 0px 0px 0px;
+    background: #F5F5F5;
+    border: none;
+}
+.enteremailinput852{
+    width: 219px;
+    height: 50px;
+    background: #F5F5F5;
+    border: none;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+    padding-left: 16px;
+    opacity: 50%;
+}
+.enterphone{
+    width: 235px;
+    height: 50px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 4px 0px 0px 0px;
+    background: #F5F5F5;
+    border: none;
+}
+.enterphoneinput{
+    width: 219px;
+    height: 50px;
+    background: #F5F5F5;
+    border: none;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+    padding-left: 16px;
+    opacity: 50%;
+}
+.textarea{
+    width: 737px;
+    height: 207px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: #F5F5F5; 
+    margin-top: 32px;   
+}
+.textareaunder{
+    width: 721px;
+    height: 194px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: #F5F5F5; 
+    border: none; 
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+    padding-left: 16px;
+    padding-top: 13px;
+    opacity: 50%;  
+}
+.buttonof856{
+    width: 215px;
+    height: 56px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: #DB4444;
+    margin-top: 32px;
+    margin-left: 522px;
+}
+.buttonof856 button{
+    width: 215px;
+    height: 56px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: #DB4444;
+    border: none;
+}
+.buttonof856 button h1{
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #FAFAFA;
+    margin-left: 48px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Media Query for low resolution  Tablets, Ipads */
+@media (max-width: 480px) {
+    main{
+        width: 1500px;
+    }
+    .roadmap{
+        margin-top: 100px;
+    }
+}
+
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 481px) and (max-width: 767px) {
+    main{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Laptops and Desktops */
+@media (min-width: 768px) and (max-width: 1024px){
+    main{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Large screens */
+@media (min-width: 1025px) and (max-width: 1280px){
+    main{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Large screens */
+@media (min-width: 1281px) and (max-width: 1300px){
+    main{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Large screens */
+@media (min-width: 1301px) and (max-width: 1496px){
+    main{
+        width: 1500px;
+    }
+}

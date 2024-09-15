@@ -1,0 +1,452 @@
+/* Main CSS */
+
+main{
+    width: 100%;
+    height: fit-content;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(Font/Inter-VariableFont_slnt\,wght.ttf);
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url(Font/Poppins-Medium.ttf);
+}
+.signup{
+    width: 1305px;
+    height: 781px;
+    top: 200px;
+    gap: 129px;
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-bottom: 70px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    /* border: 2px solid black; */
+}
+.sideimg{
+    width: 805px;
+    height: 781px;
+    gap: 0px;
+    border-radius: 0px 4px 4px 0px;
+    opacity: 0px;
+    background: #CBE4E8;
+    
+}
+.frame766{
+    width: 371px;
+    height: 326px;
+    gap: 40px;
+    opacity: 0px;
+    margin-top: 227.5px;
+    margin-left: -2px;
+}
+.frame764{
+    width: 370px;
+    height: 230px;
+    gap: 48px;
+    opacity: 0px;
+    margin-right: 1px;
+}
+.frame753{
+    width: 345px;
+    height: 78px;
+    gap: 24px;
+    opacity: 0px;
+    
+}
+.loginhead{
+    width: 345px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.loginhead h1{
+    font-family: 'Inter';
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    color: #000000;
+}
+.headingconlogin{
+    width: 191px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 24px;
+}
+.headingconlogin p{
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+
+}
+.frame757{
+    width: 370px;
+    height: 104px;
+    gap: 40px;
+    opacity: 0px;
+    margin-top: 48px;   
+}
+.unline{
+    width: 370px;
+    height: 0px;
+    gap: 0px;
+    opacity: 50%;
+    border: 1px 0px 0px 0px;
+    border: 1px solid #000000;
+}
+
+input[type="email"],
+input[type="password"] {
+    width: 370px;
+    height: 32px;
+    border: none;
+}
+.frame765{
+    width: 371px;
+    height: 56px;
+    gap: 87px;
+    opacity: 0px;
+    margin-top: 40px;
+    display: flex;   
+}
+.frame752but{
+    width: 143px;
+    height: 56px;
+    gap: 16px;
+    opacity: 0px;
+    border-radius: 4px 0px 0px 0px;
+    background: rgba(219, 68, 68, 1); 
+    padding: 16px 48px 16px 48px;
+    border: none;
+}
+.frame752but h1{
+    width: 47px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: rgba(250, 250, 250, 1);
+}
+.forgotpass{
+    width: 141px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 16px;
+}
+.forgotpass h1{
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: rgba(219, 68, 68, 1);
+}
+
+
+/* Main CSS */
+
+main{
+    width: 100%;
+    height: fit-content;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(Font/Inter-VariableFont_slnt\,wght.ttf);
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url(Font/Poppins-Medium.ttf);
+}
+.signup{
+    width: 1305px;
+    height: 781px;
+    top: 200px;
+    gap: 129px;
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-bottom: 70px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    /* border: 2px solid black; */
+}
+.sideimg{
+    width: 805px;
+    height: 781px;
+    gap: 0px;
+    border-radius: 0px 4px 4px 0px;
+    opacity: 0px;
+    background: #CBE4E8;
+    
+}
+.frame759{
+    width: 371px;
+    height: 530px;
+    gap: 48px;
+    opacity: 0px;  
+    margin-top: 125.5px;
+    margin-left: 79px;
+}
+.frame753{
+    width: 339px;
+    height: 78px;
+    gap: 24px;
+    opacity: 0px; 
+}
+.heading{
+    width: 339px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.heading h1{
+    font-family: 'Inter';
+    font-size: 34px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    color: #000000;
+}
+.headingcontent{
+    width: 191px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 24px;
+}
+.headingcontent p{
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+
+}
+.frame758{
+    width: 371px;
+    height: 404px;
+    gap: 40px;
+    opacity: 0px;
+    margin-top: 58px;
+}
+.frame757{
+    width: 370px;
+    height: 176px;
+    gap: 40px;
+    opacity: 0px;
+    margin-left: 0.5px;    
+}
+.frame754{
+    width: 370px;
+    height: 32px;
+    gap: 8px;
+    opacity: 0px;
+    
+}
+.frame755, .frame756{
+    width: 370px;
+    height: 32px;
+    gap: 8px;
+    opacity: 0px;
+    margin-top: 40px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 370px;
+    height: 32px;
+    border: none;
+}
+.unline{
+    width: 370px;
+    height: 0px;
+    gap: 0px;
+    opacity: 50%;
+    border: 1px 0px 0px 0px;
+    border: 1px solid #000000;
+}
+
+.frame752{
+    width: 371px;
+    height: 188px;
+    gap: 16px;
+    opacity: 0px;
+    margin-top: 40px;
+    margin-left: 0.5px;
+}
+.button button{
+    width: 371px;
+    height: 56px;
+    padding: 16px 122px 16px 122px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: #DB4444;
+    border: none;
+}
+.button button h1{
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #FAFAFA;
+}
+.frame751{
+    width: 371px;
+    height: 116px;
+    gap: 32px;
+    opacity: 0px;
+    margin-top: 16px;
+}
+.googlesignup{
+    width: 371px;
+    height: 56px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #00000066
+}
+.frame748{
+    width: 199px;
+    height: 24px;
+    gap: 16px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+    margin-left: 86px;
+}
+.googleicon{
+    width: 24px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.textgoogle{
+    width: 159px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;   
+    margin-left: 8px;
+}
+.textgoogle h1{
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+
+}
+.frame750{
+    width: 248px;
+    height: 28px;
+    gap: 16px;
+    opacity: 0px;
+    display: flex;
+    margin-top: 32px;
+    margin-left: 61.5px;
+}
+.aladylogin{
+    width: 185px;
+    height: 24px;
+    gap: 0px;
+    opacity: 70%;    
+}
+.aladylogin p{
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+
+}
+.login{
+    width: 47px;
+    height: 24px;
+    gap: 0px;
+    opacity: 70%;
+    margin-left: 16px;
+}
+.login a{
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #000000;
+    text-decoration: none;
+}
+.login a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+/*Media Query for low resolution  Tablets, Ipads */
+@media (max-width: 480px) {
+    main{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Tablets Ipads portrait mode */
+@media (min-width: 481px) and (max-width: 767px) {
+    main{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Laptops and Desktops */
+@media (min-width: 768px) and (max-width: 1024px){
+    main{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Large screens */
+@media (min-width: 1025px) and (max-width: 1280px){
+    main{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Large screens */
+@media (min-width: 1281px) and (max-width: 1300px){
+    main{
+        width: 1500px;
+    }
+}
+
+/* Media Query for Large screens */
+@media (min-width: 1301px) and (max-width: 1496px){
+    main{
+        width: 1500px;
+    }
+}
